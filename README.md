@@ -1,4 +1,4 @@
-# 🔍 WhisperLens - The Object Interpreter for the Visually Curious
+#  WhisperLens - The Object Interpreter for the Visually Curious
 
 An AI-powered web application that goes beyond object recognition - it **interprets** what you see. Point your camera at any object, and WhisperLens will explain what it is, how it's used, and share an interesting fact about it.
 
@@ -11,7 +11,7 @@ An AI-powered web application that goes beyond object recognition - it **interpr
 - **Live Camera Feed**: Real-time camera access with front/back camera switching
 - **History Tracking**: Review previously analyzed objects
 
-## 🎯 How to Use
+##  How to Use
 
 1. **Start the Camera**: Click the "Start Camera" button in the header
 2. **Position Your Object**: Point your camera at any object you're curious about
